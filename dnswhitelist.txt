@@ -10,6 +10,6 @@ beacons5.gvt3.com
 smetrics.nab.com.au
 mobile.pipe.aria.microsoft.com
 browser.pipe.aria.microsoft.com
-adsense.google.com^
-analytics.google.com^
-analyticsmobile-pa.googleapis.com^
+||adsense.google.com^
+||analytics.google.com^
+||analyticsmobile-pa.googleapis.com^
