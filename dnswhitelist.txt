@@ -8,3 +8,5 @@ beacons5.gcp.gvt2.com
 beacons5.gvt2.com
 beacons5.gvt3.com
 smetrics.nab.com.au
+mobile.pipe.aria.microsoft.com
+browser.pipe.aria.microsoft.com
