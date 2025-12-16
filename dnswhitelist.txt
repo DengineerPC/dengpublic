@@ -12,4 +12,4 @@
 ||browser.pipe.aria.microsoft.com
 ||adsense.google.com^
 ||analytics.google.com^
-||analyticsmobile-pa.googleapis.com^	
+||analyticsmobile-pa.googleapis.com^
